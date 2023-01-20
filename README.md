@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/GH05T-HUNTER5/wiki-promax/main/.storage/wiki-promax.jpg">
+
 ## Introduction
 
 <b><a href="https://github.com/GH05T-HUNTER5/wiki-promax">Wiki-Promax</a> helps you create your own beautiful Termux banners <br><br>
