@@ -27,3 +27,13 @@ bash install.sh
 ```
 ./wiki-promax
 ```
+
+Contact  :  <a href="mailto: gh05thunter5@proton.me">Send Email</a>
+
+```
+                                                                                          The use of the GH05T-INSTA is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+```
+
+<!--
+## This Tool is not working properly Please wait we are trying to solve this problem 
+-->
