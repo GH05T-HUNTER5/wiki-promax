@@ -28,6 +28,8 @@ bash install.sh
 ./wiki-promax
 ```
 
+### Good day and all the best
+
 Contact  :  <a href="mailto: gh05thunter5@proton.me">Send Email</a>
 
 ```
