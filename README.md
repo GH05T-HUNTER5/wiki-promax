@@ -9,6 +9,10 @@
 ## Installation
 
 ```
+apt upgrade
+```
+
+```
 pkg install git -y
 ```
 
