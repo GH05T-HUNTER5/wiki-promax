@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/GH05T-HUNTER5/wiki-promax/main/.storage/wiki-promax.jpg">
+<img src="https://a.top4top.io/p_258479brb0.jpg">
 
 ## Introduction
 
